@@ -58,5 +58,4 @@ Worked on **full-stack apps, automation frameworks, and cloud security solutions
 
 ### 🌱 Fun Facts
 - 💡 Passionate about **Cloud Security** & **Full-Stack Development**  
-- 🎶 Love exploring **music & tech blogging** at [atishayjainblog.org](https://atishayjainblog.org)  
 - 🌍 Always curious about **DevSecOps & automation**  
