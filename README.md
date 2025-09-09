@@ -1,2 +1,1 @@
-<h1>Atishay Jain</h1>
-<h2>Software Developer | Cloud & Security Enthusiast</h2>
+<h1>Software Developer | Cloud & Security Enthusiast</h1>
